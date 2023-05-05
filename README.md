@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianoBresolin
 - 👀 I’m interested in front-end developer full-staks and ui/ux design
-- 🌱 I’m currently learning HTML, CSS, SQL, NodeJS, Git , google certificate ui/ux design , soon APIs, reactJS, Typescript
+- 🌱 I’m currently learning HTML, CSS, SQL, NodeJS, Git , google certificate ui/ux design , APIs, reactJS, Typescript and Next.js
 - 💞️ I’m looking to collaborate on all i can do.
 - 📫 How to reach me https://www.linkedin.com/in/bresolinfotografia/
 
